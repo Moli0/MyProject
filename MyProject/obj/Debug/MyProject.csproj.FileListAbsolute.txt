@@ -1,0 +1,90 @@
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.BaseInformation.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.NavPanel.NavMenu.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Index.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Information.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Department.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddEmployee.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Demand.resources
+C:\Users\l\Desktop\C#\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddDemand.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.BaseInformation.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Demand.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Department.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Index.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Information.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddDemand.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddEmployee.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Admin.NavPanel.NavMenu.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\管理系统\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\bin\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\bin\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.BaseInformation.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Demand.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Department.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Index.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Information.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddDemand.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddEmployee.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Admin.NavPanel.NavMenu.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\管理系统\MyProject - 副本\MyProject\obj\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\lin_c\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.BaseInformation.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Demand.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Department.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Index.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Information.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddDemand.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddEmployee.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.NavPanel.NavMenu.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddApplicant.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Applicants.resources
+C:\Users\lin_c\Desktop\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.My.MyException.resources
+G:\MyProject\MyProject\bin\Debug\MyProject.exe.config
+G:\MyProject\MyProject\bin\Debug\MyProject.exe
+G:\MyProject\MyProject\bin\Debug\MyProject.pdb
+G:\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.BaseInformation.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Applicants.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Demand.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Department.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Index.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.Information.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddApplicant.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddDemand.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.AddEmployee.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.CententForm.Employee.WinForm.My.MyException.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Admin.NavPanel.NavMenu.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+G:\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+G:\MyProject\MyProject\obj\Debug\MyProject.exe
+G:\MyProject\MyProject\obj\Debug\MyProject.pdb
+G:\MyProject\MyProject\bin\Debug\AutoSize_Form.dll
+G:\MyProject\MyProject\bin\Debug\AutoSize_Form.pdb
+C:\Users\lin_c\Desktop\MyProject\MyProject\bin\Debug\AutoSize_Form.dll
+C:\Users\lin_c\Desktop\MyProject\MyProject\bin\Debug\AutoSize_Form.pdb
